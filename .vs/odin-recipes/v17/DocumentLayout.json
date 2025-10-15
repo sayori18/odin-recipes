@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Stacy\\Music\\odin-recipes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\okroshka.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\okroshka.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\omelette.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\omelette.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\marshmallows.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\marshmallows.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\crepes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\omelette.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\omelette.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\lasagna.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\lasagna.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\okroshka.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipes\\okroshka.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stacy\\Music\\odin-recipes\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "main.css",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\main.css",
               "RelativeToolTip": "main.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-13T20:22:52.159Z",
               "IsPinned": true,
@@ -60,65 +60,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "okroshka.html",
               "DocumentMoniker": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\okroshka.html",
               "RelativeDocumentMoniker": "recipes\\okroshka.html",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\okroshka.html",
               "RelativeToolTip": "recipes\\okroshka.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-08T11:41:45.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "omelette.html",
               "DocumentMoniker": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\omelette.html",
               "RelativeDocumentMoniker": "recipes\\omelette.html",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\omelette.html",
               "RelativeToolTip": "recipes\\omelette.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-08T11:34:15.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "lasagna.html",
               "DocumentMoniker": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\lasagna.html",
               "RelativeDocumentMoniker": "recipes\\lasagna.html",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\lasagna.html",
               "RelativeToolTip": "recipes\\lasagna.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACVAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-08T11:27:11.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "crepes.html",
               "DocumentMoniker": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\crepes.html",
               "RelativeDocumentMoniker": "recipes\\crepes.html",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\crepes.html",
               "RelativeToolTip": "recipes\\crepes.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACFAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-06T14:43:48.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "marshmallows.html",
               "DocumentMoniker": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\marshmallows.html",
               "RelativeDocumentMoniker": "recipes\\marshmallows.html",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\recipes\\marshmallows.html",
               "RelativeToolTip": "recipes\\marshmallows.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-06T12:59:50.047Z",
               "EditorCaption": ""
@@ -131,7 +131,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Stacy\\Music\\odin-recipes\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-06T12:53:43.911Z",
               "EditorCaption": ""
